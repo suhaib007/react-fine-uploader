@@ -1,0 +1,23 @@
+{
+  "name": "react-fine-uploader-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["demo", "example", "react-fine-uploader"],
+  "main": "src/index.js",
+  "dependencies": {
+    "fine-uploader": "5.16.2",
+    "fine-uploader-wrappers": "1.0.1",
+    "react-fine-uploader": "1.1.1",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
